@@ -1,0 +1,1 @@
+# firestore-large-rules-file
