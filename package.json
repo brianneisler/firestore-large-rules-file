@@ -8,6 +8,7 @@
         "uuid": "^8.3.0"
     },
     "devDependencies": {
+        "firebase-tools": "^8.13.1",
         "firemin": "^0.2.0"
     }
 }
