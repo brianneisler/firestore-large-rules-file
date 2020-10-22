@@ -1,0 +1,13 @@
+{
+    "name": "brianneisler-test",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "firebase-admin": "^9.2.0",
+        "fs-extra": "^9.0.1",
+        "uuid": "^8.3.0"
+    },
+    "devDependencies": {
+        "firemin": "^0.2.0"
+    }
+}
